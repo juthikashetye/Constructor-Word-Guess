@@ -17,11 +17,13 @@
 
 ### Part One Shapes
 
-* The part one logs the name, area, perimeter and number of sides of a square and rectangle in the terminal.
+* To run this file, go to the folder of this project in your terminal and type `node part1-shape.js`
+* This commmand logs the name, area, perimeter and number of sides of a square and rectangle in the terminal.
 
 ### Part Two Survivor-Monster
 
-* The app prompts you to guess a number between 1 and 30.
+* To run this file, go to the folder of this project in your terminal and type `node part2-monster.js`
+* This command prompts you to guess a number between 1 and 30.
 * If your guess matches the pre-selected number by the app then, you win the game.
 * If your guess is wrong then you are attacked by a monster and you are notified of your loss of health which is equal to the attack power of the monster.
 * If your health goes below 0 then you lose the game.
