@@ -1,7 +1,5 @@
 # Constructor-Word-Guess
 
-## This project is a Homework assignment for a Coding Bootcamp
-
 ### About the Code
 
 * This is a **Command Line** app.
