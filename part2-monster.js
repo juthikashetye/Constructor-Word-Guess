@@ -53,7 +53,7 @@ Monster.prototype.ranAttack = function() {
    }
 }
 
-var monster = new Monster(5, "devil", 10);
+var monster = new Monster(5, "devil", 10); 
 
 inquirer
    .prompt([{
